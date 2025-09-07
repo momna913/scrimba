@@ -1,0 +1,29 @@
+body{
+
+}
+header{
+   background-color: #4a4a4a; 
+   color: blanchedalmond;
+   text-align: center;
+   padding: 25px 0;
+   margin-bottom: 25px;
+
+}
+main{
+  background-color: #4e4e4e;
+ 
+    width: 600px;
+    padding: 25px;
+    border: solid 5px red;
+margin: 100px auto;
+
+}
+footer{
+  background-color: #4a4a4a;
+    color:blanchedalmond ;
+    text-align: center;
+     padding: 25px 0;
+       margin-bottom: 25px;
+       margin-top: 25px;
+
+}
